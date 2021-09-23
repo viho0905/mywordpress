@@ -48,7 +48,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="DU LỊCH SAPA -  LÊN ĐỈNH FANSIPAN NGẮM MÂY CỰC ĐẸP" width="580" height="326" src="https://www.youtube.com/embed/-AREhw2Ot3o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="DU LỊCH SAPA -  LÊN ĐỈNH FANSIPAN NGẮM MÂY CỰC ĐẸP" width="980" height="551" src="https://www.youtube.com/embed/-AREhw2Ot3o?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 
 
@@ -199,10 +199,10 @@
 		<td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td>
 	</tr>
 	<tr>
-		<td>13</td><td>14</td><td id="today">15</td><td>16</td><td>17</td><td>18</td><td>19</td>
+		<td>13</td><td>14</td><td>15</td><td>16</td><td>17</td><td>18</td><td>19</td>
 	</tr>
 	<tr>
-		<td>20</td><td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td>
+		<td>20</td><td>21</td><td>22</td><td id="today">23</td><td>24</td><td>25</td><td>26</td>
 	</tr>
 	<tr>
 		<td>27</td><td>28</td><td>29</td><td>30</td>
@@ -460,7 +460,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="480" height="415" src="https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/240122773_300439928546722_8701828342151702572_n.jpg" alt="" data-id="92" data-link="https://viho0905.github.io/mywordpress/nhung-loai-ca-canh-dep-nhat/240122773_300439928546722_8701828342151702572_n/" class="wp-image-92" srcset="https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/240122773_300439928546722_8701828342151702572_n.jpg 480w, https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/240122773_300439928546722_8701828342151702572_n-300x259.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" /><figcaption class="blocks-gallery-item__caption">hình 1 </figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="960" height="960" src="https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/121165152_628854697796309_135344096492168594_n.jpg" alt="" data-id="93" data-full-url="https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/121165152_628854697796309_135344096492168594_n.jpg" data-link="https://viho0905.github.io/mywordpress/nhung-loai-ca-canh-dep-nhat/121165152_628854697796309_135344096492168594_n/" class="wp-image-93" srcset="https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/121165152_628854697796309_135344096492168594_n.jpg 960w, https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/121165152_628854697796309_135344096492168594_n-300x300.jpg 300w, https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/121165152_628854697796309_135344096492168594_n-150x150.jpg 150w, https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/121165152_628854697796309_135344096492168594_n-768x768.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption class="blocks-gallery-item__caption">hình 2</figcaption></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="480" height="415" src="https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/240122773_300439928546722_8701828342151702572_n.jpg" alt="" data-id="92" data-link="https://viho0905.github.io/mywordpress/nhung-loai-ca-canh-dep-nhat/240122773_300439928546722_8701828342151702572_n/" class="wp-image-92" srcset="https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/240122773_300439928546722_8701828342151702572_n.jpg 480w, https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/240122773_300439928546722_8701828342151702572_n-416x360.jpg 416w, https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/240122773_300439928546722_8701828342151702572_n-300x259.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" /><figcaption class="blocks-gallery-item__caption">hình 1 </figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="960" height="960" src="https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/121165152_628854697796309_135344096492168594_n.jpg" alt="" data-id="93" data-full-url="https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/121165152_628854697796309_135344096492168594_n.jpg" data-link="https://viho0905.github.io/mywordpress/nhung-loai-ca-canh-dep-nhat/121165152_628854697796309_135344096492168594_n/" class="wp-image-93" srcset="https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/121165152_628854697796309_135344096492168594_n.jpg 960w, https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/121165152_628854697796309_135344096492168594_n-324x324.jpg 324w, https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/121165152_628854697796309_135344096492168594_n-100x100.jpg 100w, https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/121165152_628854697796309_135344096492168594_n-416x416.jpg 416w, https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/121165152_628854697796309_135344096492168594_n-300x300.jpg 300w, https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/121165152_628854697796309_135344096492168594_n-150x150.jpg 150w, https://viho0905.github.io/mywordpress/wp-content/uploads/2021/09/121165152_628854697796309_135344096492168594_n-768x768.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption class="blocks-gallery-item__caption">hình 2</figcaption></figure></li></ul></figure>
 
 
 

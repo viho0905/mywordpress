@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lắc tay &#8211; HOTHIVI</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/lac-tay/feed/" rel="self" type="application/rss+xml" />
+	<link>https://viho0905.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Wed, 22 Sep 2021 10:13:07 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Vòng tay nữ Curnon Doris Cuff</title>
+		<link>https://viho0905.github.io/mywordpress/sản%20phẩm/vong-tay-nu-curnon-doris-cuff/</link>
+					<comments>https://viho0905.github.io/mywordpress/sản%20phẩm/vong-tay-nu-curnon-doris-cuff/#respond</comments>
+		
+		<dc:creator><![CDATA[HOTHIVI]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 10:11:56 +0000</pubDate>
+				<guid isPermaLink="false">https://viho0905.github.io/mywordpress/?post_type=product&#038;p=167</guid>
+
+					<description><![CDATA[Vòng tay nữ Curnon Doris Cuff]]></description>
+										<content:encoded><![CDATA[<p>Vòng tay nữ Curnon Doris Cuff</p>
+<p>THÔNG SỐ SẢN PHẨM</p>
+<p>&#8211; Chất liệu: Thép không gỉ</p>
+<p>&#8211; Chu vi: 155mm</p>
+<p>&#8211; Màu sắc: Silver/ Rosegold</p>
+<p>BỘ SẢN PHẨM BAO GỒM</p>
+<p>&#8211; 01 Vòng tay</p>
+<p>&#8211; 01 Túi đựng vòng</p>
+<p>&#8211; 01 Postcards đi kèm</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://viho0905.github.io/mywordpress/sản%20phẩm/vong-tay-nu-curnon-doris-cuff/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

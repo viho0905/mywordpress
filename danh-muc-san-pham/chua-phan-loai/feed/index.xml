@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chưa phân loại &#8211; HOTHIVI</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/chua-phan-loai/feed/" rel="self" type="application/rss+xml" />
+	<link>https://viho0905.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Wed, 22 Sep 2021 11:08:51 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>NHỮNG BÀI HỌC KHÔNG CÓ NƠI GIẢNG ĐƯỜNG</title>
+		<link>https://viho0905.github.io/mywordpress/sản%20phẩm/nhung-bai-hoc-khong-co-noi-giang-duong/</link>
+					<comments>https://viho0905.github.io/mywordpress/sản%20phẩm/nhung-bai-hoc-khong-co-noi-giang-duong/#respond</comments>
+		
+		<dc:creator><![CDATA[HOTHIVI]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 11:03:36 +0000</pubDate>
+				<guid isPermaLink="false">https://viho0905.github.io/mywordpress/?post_type=product&#038;p=197</guid>
+
+					<description><![CDATA[NHỮNG BÀI HỌC KHÔNG CÓ NƠI GIẢNG ĐƯỜNG]]></description>
+										<content:encoded><![CDATA[<p>NHỮNG BÀI HỌC KHÔNG CÓ NƠI GIẢNG ĐƯỜNG</p>
+<p>Mã sản phẩm: 8936067598643</p>
+<p>Tác giả : Jamson Chia</p>
+<p>NXB: NXB Thanh Niên</p>
+<p>Kích thước : 13.5&#215;20.5 cm</p>
+<p>Năm xuất bản : 2018</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://viho0905.github.io/mywordpress/sản%20phẩm/nhung-bai-hoc-khong-co-noi-giang-duong/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

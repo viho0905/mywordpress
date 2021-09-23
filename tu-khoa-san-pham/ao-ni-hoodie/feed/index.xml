@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Áo nỉ Hoodie &#8211; HOTHIVI</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/ao-ni-hoodie/feed/" rel="self" type="application/rss+xml" />
+	<link>https://viho0905.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 23 Sep 2021 03:14:47 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Áo nỉ Hoodie Drew house mặt cười</title>
+		<link>https://viho0905.github.io/mywordpress/sản%20phẩm/ao-ni-hoodie-drew-house-mat-cuoi/</link>
+					<comments>https://viho0905.github.io/mywordpress/sản%20phẩm/ao-ni-hoodie-drew-house-mat-cuoi/#respond</comments>
+		
+		<dc:creator><![CDATA[HOTHIVI]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 09:50:21 +0000</pubDate>
+				<guid isPermaLink="false">https://viho0905.github.io/mywordpress/?post_type=product&#038;p=159</guid>
+
+					<description><![CDATA[M : Ngang 56cm - Dài 72cm ( 45kg - 65kg )
+
+L : Ngang 58cm - Dài 74cm ( 60kg - 75kg )
+
+XL: ngang 60cm - Dài 76cm ( 70kg - 90kg )]]></description>
+										<content:encoded><![CDATA[<p>Áo nỉ Hoodie Drew house mặt cười</p>
+<p>&#8211; Chất liệu nỉ Bông   Cotton 100% mềm mại dày dặn  , thoáng mát</p>
+<p>&#8211; Đường may được gia công tỉ mỉ, chắc chắn.</p>
+<p>&#8211; Hình in sắc nét, chân thực</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://viho0905.github.io/mywordpress/sản%20phẩm/ao-ni-hoodie-drew-house-mat-cuoi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
