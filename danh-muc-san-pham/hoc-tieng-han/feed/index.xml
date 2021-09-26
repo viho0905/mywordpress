@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>học tiếng hàn &#8211; HOTHIVI</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/hoc-tieng-han/feed/" rel="self" type="application/rss+xml" />
+	<link>https://viho0905.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 23 Sep 2021 13:54:16 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Khóa học tiếng Hàn trung cấp</title>
+		<link>https://viho0905.github.io/mywordpress/sản%20phẩm/khoa-hoc-tieng-han-trung-cap/</link>
+					<comments>https://viho0905.github.io/mywordpress/sản%20phẩm/khoa-hoc-tieng-han-trung-cap/#respond</comments>
+		
+		<dc:creator><![CDATA[HOTHIVI]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 13:54:16 +0000</pubDate>
+				<guid isPermaLink="false">https://viho0905.github.io/mywordpress/?post_type=product&#038;p=245</guid>
+
+					<description><![CDATA[<div id="HEADLINE710" class="ladi-element">
+<p class="ladi-headline">Nói tiếng Hàn như người Hàn</p>
+
+</div>
+<div id="HEADLINE672" class="ladi-element">
+<p class="ladi-headline">Học sách gốc, nhập độc quyền từ Hàn Quốc</p>
+<p class="ladi-headline">Thời gian học linh hoạt</p>
+<p class="ladi-headline">Học trực tiếp với giáo viên bản ngữ</p>
+
+</div>]]></description>
+										<content:encoded><![CDATA[<div id="GROUP805" class="ladi-element">
+<div class="ladi-group">
+<div id="PARAGRAPH807" class="ladi-element">
+<p class="ladi-paragraph">Ứng dụng thành thạo từ vựng, ngữ pháp, cấu trúc các câu tiếng Hàn trung cấp.</p>
+<p class="ladi-paragraph">Thành thạo các biểu hiện giao tiếp trong tiếng Hàn với 9 chủ đề: chào hỏi, lễ hội, các địa điểm du lịch Hàn Quốc, đặt phòng, các địa điểm hẹn hò, sở thích, giao lưu cùng bạn bè, giáo dục và trường học, cơ hội nghề nghiệp.</p>
+<p>Tự tin giao tiếp như người bản xứ nhờ “bỏ túi” vốn kiến thức nâng cao qua 9 chủ đề: sự thay đổi, kí ức, tâm trạng và cảm giác, trình diễn, âm nhạc, văn hóa Hàn Quốc, nơi công cộng, hôn nhân và nuôi dạy trẻ, ước mơ trong tương lai.</p>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://viho0905.github.io/mywordpress/sản%20phẩm/khoa-hoc-tieng-han-trung-cap/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

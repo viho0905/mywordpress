@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/sach/feed/" rel="self" type="application/rss+xml" />
 	<link>https://viho0905.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 22 Sep 2021 11:08:51 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Sep 2021 14:10:59 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,75 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
-		<title>NHỮNG BÀI HỌC KHÔNG CÓ NƠI GIẢNG ĐƯỜNG</title>
+		<title>Sinh học 12</title>
+		<link>https://viho0905.github.io/mywordpress/sản%20phẩm/sinh-hoc-12/</link>
+					<comments>https://viho0905.github.io/mywordpress/sản%20phẩm/sinh-hoc-12/#respond</comments>
+		
+		<dc:creator><![CDATA[HOTHIVI]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 12:59:39 +0000</pubDate>
+				<guid isPermaLink="false">https://viho0905.github.io/mywordpress/?post_type=product&#038;p=236</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://viho0905.github.io/mywordpress/sản%20phẩm/sinh-hoc-12/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hóa học 12</title>
+		<link>https://viho0905.github.io/mywordpress/sản%20phẩm/hoa-hoc-12/</link>
+					<comments>https://viho0905.github.io/mywordpress/sản%20phẩm/hoa-hoc-12/#respond</comments>
+		
+		<dc:creator><![CDATA[HOTHIVI]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 12:57:08 +0000</pubDate>
+				<guid isPermaLink="false">https://viho0905.github.io/mywordpress/?post_type=product&#038;p=232</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://viho0905.github.io/mywordpress/sản%20phẩm/hoa-hoc-12/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vật lí 12</title>
+		<link>https://viho0905.github.io/mywordpress/sản%20phẩm/vat-li/</link>
+					<comments>https://viho0905.github.io/mywordpress/sản%20phẩm/vat-li/#respond</comments>
+		
+		<dc:creator><![CDATA[HOTHIVI]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 12:55:33 +0000</pubDate>
+				<guid isPermaLink="false">https://viho0905.github.io/mywordpress/?post_type=product&#038;p=230</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://viho0905.github.io/mywordpress/sản%20phẩm/vat-li/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hình học 12</title>
+		<link>https://viho0905.github.io/mywordpress/sản%20phẩm/hinh-hoc-12/</link>
+					<comments>https://viho0905.github.io/mywordpress/sản%20phẩm/hinh-hoc-12/#respond</comments>
+		
+		<dc:creator><![CDATA[HOTHIVI]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 12:52:09 +0000</pubDate>
+				<guid isPermaLink="false">https://viho0905.github.io/mywordpress/?post_type=product&#038;p=228</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://viho0905.github.io/mywordpress/sản%20phẩm/hinh-hoc-12/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Giải tích 12</title>
 		<link>https://viho0905.github.io/mywordpress/sản%20phẩm/nhung-bai-hoc-khong-co-noi-giang-duong/</link>
 					<comments>https://viho0905.github.io/mywordpress/sản%20phẩm/nhung-bai-hoc-khong-co-noi-giang-duong/#respond</comments>
 		
@@ -28,14 +96,8 @@
 		<pubDate>Wed, 22 Sep 2021 11:03:36 +0000</pubDate>
 				<guid isPermaLink="false">https://viho0905.github.io/mywordpress/?post_type=product&#038;p=197</guid>
 
-					<description><![CDATA[NHỮNG BÀI HỌC KHÔNG CÓ NƠI GIẢNG ĐƯỜNG]]></description>
-										<content:encoded><![CDATA[<p>NHỮNG BÀI HỌC KHÔNG CÓ NƠI GIẢNG ĐƯỜNG</p>
-<p>Mã sản phẩm: 8936067598643</p>
-<p>Tác giả : Jamson Chia</p>
-<p>NXB: NXB Thanh Niên</p>
-<p>Kích thước : 13.5&#215;20.5 cm</p>
-<p>Năm xuất bản : 2018</p>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
 					<wfw:commentRss>https://viho0905.github.io/mywordpress/sản%20phẩm/nhung-bai-hoc-khong-co-noi-giang-duong/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -43,7 +105,7 @@
 		
 			</item>
 		<item>
-		<title>Kim Chỉ Nam Cho Bạn Trẻ Hậu Tốt Nghiệp</title>
+		<title>Bộ sách giáo khoa 12</title>
 		<link>https://viho0905.github.io/mywordpress/sản%20phẩm/kim-chi-nam-cho-ban-tre-hau-tot-nghiep/</link>
 					<comments>https://viho0905.github.io/mywordpress/sản%20phẩm/kim-chi-nam-cho-ban-tre-hau-tot-nghiep/#respond</comments>
 		
@@ -51,12 +113,12 @@
 		<pubDate>Wed, 22 Sep 2021 10:51:02 +0000</pubDate>
 				<guid isPermaLink="false">https://viho0905.github.io/mywordpress/?post_type=product&#038;p=195</guid>
 
-					<description><![CDATA[Sách: Combo Kim Chỉ Nam Cho Bạn Trẻ Hậu Tốt Nghiệp]]></description>
-										<content:encoded><![CDATA[<p>Sách: Combo Kim Chỉ Nam Cho Bạn Trẻ Hậu Tốt Nghiệp</p>
-<p>1.THÔNG SỐ SẢN PHẨM</p>
-<p>Mã sản phẩm: 89362433</p>
-<p>Tác giả : Nhiều tác giả</p>
-<p>Nhà xuất bản: Minh Long book tổng hợp</p>
+					<description><![CDATA[Trọn bộ sách giáo khoa lớp 12]]></description>
+										<content:encoded><![CDATA[<p>Trọn bộ 14 cuốn sách giáo khoa 12</p>
+<p>Bộ sách bao gồm 25 quyển trong đó có 14 quyển sách giáo khoa và 11 quyển bài tập kèm theo.<br />
+– Tác giả: nhiều tác giả<br />
+– Nhà xuất bản: Nhà xuất bản Giáo dục Việt nam<br />
+– Năm xuất bản: 2020</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://viho0905.github.io/mywordpress/sản%20phẩm/kim-chi-nam-cho-ban-tre-hau-tot-nghiep/feed/</wfw:commentRss>
