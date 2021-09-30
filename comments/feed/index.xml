@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>
-	Bình luận cho HOTHIVI	</title>
+	Bình luận cho VIHO	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://viho0905.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description></description>
 	<lastBuildDate>Wed, 08 Sep 2021 04:06:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

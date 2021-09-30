@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>củ sạc &#8211; VIHO</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/cu-sac/feed/" rel="self" type="application/rss+xml" />
+	<link>https://viho0905.github.io/mywordpress</link>
+	<description></description>
+	<lastBuildDate>Wed, 29 Sep 2021 09:10:50 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Combo sạc dự phòng Energizer</title>
+		<link>https://viho0905.github.io/mywordpress/product/combo-sac-du-phong-energizer/</link>
+					<comments>https://viho0905.github.io/mywordpress/product/combo-sac-du-phong-energizer/#respond</comments>
+		
+		<dc:creator><![CDATA[HOTHIVI]]></dc:creator>
+		<pubDate>Wed, 29 Sep 2021 09:10:50 +0000</pubDate>
+				<guid isPermaLink="false">https://viho0905.github.io/mywordpress/?post_type=product&#038;p=552</guid>
+
+					<description><![CDATA[✇ SẠC NHANH MOPHIE 10W USB-A: Kích thước: 34 x 45 x 21 mm Màu sắc: Trắng/Đen Chuẩn kết nối: USB-A Output: 10W (5V-2A) Input: 100-240V/ (50-60Hz) ✇ CÁP MOPHIE LIGHTNING 1M: Độ dài: 1M Màu sắc: Trắng/Đen]]></description>
+										<content:encoded><![CDATA[<p>✇ SẠC NHANH MOPHIE 10W USB-A:</p>
+<p>Kích thước: 34 x 45 x 21 mm</p>
+<p>Màu sắc: Trắng/Đen</p>
+<p>Chuẩn kết nối: USB-A</p>
+<p>Output: 10W (5V-2A)</p>
+<p>Input: 100-240V/ (50-60Hz)</p>
+<p>✇ CÁP MOPHIE LIGHTNING 1M:</p>
+<p>Độ dài: 1M</p>
+<p>Màu sắc: Trắng/Đen</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://viho0905.github.io/mywordpress/product/combo-sac-du-phong-energizer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Củ Sạc Nhanh TOPK B210p</title>
+		<link>https://viho0905.github.io/mywordpress/product/cu-sac-nhanh-topk-b210p/</link>
+					<comments>https://viho0905.github.io/mywordpress/product/cu-sac-nhanh-topk-b210p/#respond</comments>
+		
+		<dc:creator><![CDATA[HOTHIVI]]></dc:creator>
+		<pubDate>Wed, 29 Sep 2021 08:50:06 +0000</pubDate>
+				<guid isPermaLink="false">https://viho0905.github.io/mywordpress/?post_type=product&#038;p=541</guid>
+
+					<description><![CDATA[TOPK đã giành được siêu giải thưởng Thương hiệu có ảnh hưởng nhất năm 2020 tại thị trường Đông Nam Á. TOPK chuyên về các sản phẩm điện tử tiêu dùng, hầu hết các phụ kiện điện thoại. Mặt hàng này luôn có sẵn và hoan nghênh bạn đặt hàng.]]></description>
+										<content:encoded><![CDATA[<p>TOPK đã giành được siêu giải thưởng Thương hiệu có ảnh hưởng nhất năm 2020 tại thị trường Đông Nam Á. TOPK chuyên về các sản phẩm điện tử tiêu dùng, hầu hết các phụ kiện điện thoại. Mặt hàng này luôn có sẵn và hoan nghênh bạn đặt hàng.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://viho0905.github.io/mywordpress/product/cu-sac-nhanh-topk-b210p/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
